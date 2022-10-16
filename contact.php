@@ -8,24 +8,9 @@
 
 <!-- Mirrored from htmltemplate.akatheme.com/retation/style-v1/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Oct 2022 07:11:27 GMT -->
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>The Retation HTML</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link type="text/css" rel="stylesheet"
-	href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700">
-<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700'
-	rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="./assets/css/animate.css">
-<link rel="stylesheet" href="./assets/css/hover.css">
-<link rel="stylesheet" href="./assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="./assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="./assets/css/main.css">
-<link rel="stylesheet" href="./assets/css/responsive.css">
-<link rel="stylesheet" href="./assets/css/color/default.css">
-
-<script src="./assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<?php 
+		include('layout/head.php');
+	?>
 
 </head>
 <body class="page-contact">
@@ -69,7 +54,7 @@
 									<div class="widget-inner">
 										<h3 class="title">Contacts Info</h3>
 										<div class="widget-text">
-											<p>Cleatskins are revolutionary footwear accessory designed to allow athletes to move swiftly.</p>
+											<p>Anabil Tower, Plot # 3 , Block -NW(J Gulshan North Avenue,<br>Kemal Ataturk Ave, 1212,<br> Dhaka, Dhaka Division, Bangladesh</p>
 											<p>
 											Email: <a href="mailto:noreply@gmail.com">noreply@gmail.com</a><br>
 											Phone: +800 - 568 - 8989	
@@ -78,32 +63,18 @@
 										</div>
 									</div>
 								</div>
-								
-								<div class="widget">
-									<div class="widget-inner">
-										<h3 class="title">Store Hours</h3>
-										<div class="widget-text">
-											<div class="row">
-												<div class="col-xs-8 col-sm-7">Monday - Thursday</div>
-												<div class="col-xs-4 col-sm-5">8 am - 5 pm</div>
-												
-												<div class="col-xs-8 col-sm-7">Friday</div>
-												<div class="col-xs-4 col-sm-5">8 am - 6 pm</div>
-												
-												<div class="col-xs-8 col-sm-7">Saturday</div>
-												<div class="col-xs-4 col-sm-5">9 am - 5 pm</div>
-												
-												<div class="col-xs-8 col-sm-7">Sunday &amp; Holidays</div>
-												<div class="col-xs-4 col-sm-5">Closed</div>
-											</div>                 
-                                                                       
-										</div>
-									</div>
-								</div>
 							</div>
 						</div>
 						
+
+
 						<div class="col-md-9  col-md-pull-3">
+							<div class="contact-content">
+								<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=anabil%20tower%20gulshan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div></div>
+							</div>
+						</div>
+
+						<div class="col-md-9  col-md-pull-3" style="display: none;">
 							<div class="contact-content">
 								<h3 class="title contact-title">Contacts Form</h3>
 								<p class="contact-desc">The film is an initiative taken on
@@ -149,9 +120,6 @@
 					</div>
 				</div>
 				
-				<div class="maps">
-					<div id="map-canvas"></div>
-				</div>
 				
 			</div>
 

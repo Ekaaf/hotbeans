@@ -33,13 +33,12 @@
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="index.php">Home</a></li>
-				<li class="active"><a href="about.php">About</a></li>
-				<li><a href="menu.php">Menu</a>
+				<li class="<?php if(strpos($_SERVER['REQUEST_URI'], 'index.php')) echo 'active'; ?>"><a href="index.php">Home</a></li>
+				<li class="<?php if(strpos($_SERVER['REQUEST_URI'], 'about.php')) echo 'active'; ?>"><a href="about.php">About</a></li>
+				<li class="<?php if(strpos($_SERVER['REQUEST_URI'], 'menu.php')) echo 'active'; ?>"><a href="menu.php">Menu</a></li>
+				<li class="<?php if(strpos($_SERVER['REQUEST_URI'], 'galleries.php')) echo 'active'; ?>"><a href="galleries.php">Galleries</a>
 				</li>
-				<li><a href="galleries.php">Galleries</a>
-				</li>
-				<li><a href="contact.php">Contacts</a></li>
+				<li class="<?php if(strpos($_SERVER['REQUEST_URI'], 'contact.php')) echo 'active'; ?>"><a href="contact.php">Contacts</a></li>
 			</ul>
 		</div>
 		<!--/.navbar-collapse -->
