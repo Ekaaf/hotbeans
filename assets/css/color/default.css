@@ -38,7 +38,7 @@ body:before,
 .nivo-controlNav a,
 #services-item li:after,
 #services-item li:before{
-	background-color: #FFF;
+	/*background-color: #FFF;*/
 }
 .info-recipe,
 #footer,
