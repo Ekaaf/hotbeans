@@ -84,7 +84,7 @@
 											<aside class="clearfix animated" data-animate="fadeInRight">
 												<!-- <img class="menu-img" alt="" src="./images/menus/coffee-1.png"> -->
 												<div class="menu-content">
-													<h5 class="title menu-title"><span><?php echo $row['title']; ?></span><span class="menu-price"><i class="fa fa-usd"></i><?php echo $row['price']; ?></span></h5>
+													<h5 class="title menu-title"><span><?php echo $row['title']; ?></span><span class="menu-price"><i class="fa fa-usd"></i><?php echo $row['price']; ?>/-</span></h5>
 													<!-- <p>Our selection of coffee beans have been rigorously tested with every different type of coffee machine to make.</p> -->
 												</div>
 											</aside>
