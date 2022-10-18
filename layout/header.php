@@ -12,8 +12,7 @@
 			
 			<!-- Logo -->
 			<div id="logo" class="col-sm-4 logo col-sm-pull-4">
-				<a href="index-2.html"><img alt="The Retation"
-					src="./assets/imgs/logo2.jpg"></a>
+				<a href="index.php"><img alt="The Retation" src="./assets/imgs/hotbeans.png" width="220" height="120"></a>
 			</div>
 			
 		</div>

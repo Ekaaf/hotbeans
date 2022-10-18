@@ -102,7 +102,7 @@
 						
 						<div class="col-sm-6 col-sm-pull-6">
 							<h1 class="title line-title">
-								Welcome to our Retation<i class="fa">&#xf111;</i>
+								Welcome to Hotbeans<i class="fa">&#xf111;</i>
 							</h1>
 							<aside>
 								<p>Cmspresso is the process that slowly and gradually
@@ -218,7 +218,7 @@
 								<img alt="" src="./images/home/info/info-img-3.png">
 							</figure>
 							<aside>
-								<h4 class="title">Do you want to Retation the video recipe?</h4>
+								<h4 class="title">Hotbeans</h4>
 								<p>Coffee is a ritual, a small treat in the morning, “fuel”,
 									a break, chat, affair that makes up our lives. Making the
 									coffee better, we make our lives better.</p>

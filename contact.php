@@ -56,10 +56,9 @@
 										<div class="widget-text">
 											<p>Anabil Tower, Plot # 3 , Block -NW(J Gulshan North Avenue,<br>Kemal Ataturk Ave, 1212,<br> Dhaka, Dhaka Division, Bangladesh</p>
 											<p>
-											Email: <a href="mailto:noreply@gmail.com">noreply@gmail.com</a><br>
-											Phone: +800 - 568 - 8989	
+											Email: <a href="mailto:noreply@gmail.com">info@hotbeansbd.com</a><br>
+											Phone: 01744-137534
 											</p>
-											<p>96 Isabella ST, London, SE 1 8DD</p>
 										</div>
 									</div>
 								</div>

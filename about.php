@@ -53,7 +53,7 @@
 								</figure>
 							</div>
 							<div class="col-sm-6 col-sm-pull-6">
-								<h1 class="title">Welcome to our Retation</h1>
+								<h1 class="title">Welcome to our Hotbeans</h1>
 								<aside>
 									<p>Cmspresso is the process that slowly and gradually
 										releases the purest of essence. As tea leaves unravel and
