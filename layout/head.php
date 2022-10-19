@@ -17,4 +17,6 @@
 <link rel="stylesheet" href="./assets/css/responsive.css">
 <link rel="stylesheet" href="./assets/css/color/default.css">
 
+<link rel="shortcut icon" href="assets/imgs/hotbeans.png" type="image/x-icon">
+<link rel="icon" href="assets/imgs/hotbeans.png" type="image/x-icon">
 <script src="./assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
