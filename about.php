@@ -55,15 +55,13 @@
 							<div class="col-sm-6 col-sm-pull-6">
 								<h1 class="title">Welcome to our Hotbeans</h1>
 								<aside>
-									<p>Cmspresso is the process that slowly and gradually
-										releases the purest of essence. As tea leaves unravel and
-										coffee patiently drips, it is the best representation of the
-										making of tea and coffee. We want the tea and coffee from
-										Cmspresso to express their many levels of character through a
-										thoughtful and caring hand.</p>
-									<p>Cmspresso is a concept that we wish to pass for-ward.
-										Cmspresso means a healthy and positive outlook for the adopters
-										of this great attitude.</p>
+									Coffee aficionados gather around! The hottest new cafe in town is now open for you to brew conversations with your loved ones while you sip on your favourite brew, be it hot or cold. From Iced Americanos to Hot Cappuccinos, you name it we serve it.
+									<br><br>
+									Located in Anabil tower right on the iconic Kemal Atteturk Avenue, we serve you the beans while you enjoy the majestic scenes.
+									<br><br>
+									We have something for everyone! Even if you’re not into coffee, our exciting menu offers a wide range of all-day exquisite brunch meals and lunch combos to satisfy each and every corners of your tastebuds!
+									<br><br>
+									Join us at our one and only branch at Anabil tower, as we rewrite the definition of a coffee shop in Bangladesh!
 								</aside>
 							</div>
 						</div>
@@ -83,9 +81,7 @@
 									<h1 class="title">Our Mission</h1>
 									<div class="content">
 										<h5 class="title">We believe in sharing quality organic products that you can enjoy with confidence.</h5>
-										<p>We strive to nourish your body and respect the environment by certifying each of our products organic and gluten free, using pure ingredients that are ethically sourced from around the world and embracing sustainable, eco-friendly practices, always.</p>
-										<h5 class="title">In all that we do, we aim for goodness.</h5>
-										<p>Whether you are dedicated to a wholesome, organic lifestyle, are dabbling in a gluten free diet or enjoy using the freshest and most expansive variety of spices in your culinary creations, we want you to empower your creativity and wellness with quality organic ingredients and help you feel good about your food choices.</p>
+										<p>In this fast paced world with so much to get done, coffee is a must-have “fuel” for us to keep up with the grueling needs of daily life. Which is why we at Hot Beans strive to provide you with the best coffee out there to fulfill your quota of that much needed caffeine boost!</p>
 									</div>
 								</aside>
 							</div>
@@ -93,7 +89,7 @@
 					</div>
 				</section>
 				
-				<section class="section ourPromise">
+				<section class="section ourPromise" style="display:none;">
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-5 col-sm-push-7">
@@ -111,7 +107,7 @@
 					</div>
 				</section>
 				
-				<section class="section gallery-about">
+				<section class="section gallery-about" style="display:none;">
 					<div class="gallery-flickity">
 						<div class="gallery-cell">
 							<img alt="" src="./images/about/gallery/gallery-1.jpg" class="animated" data-animate="fadeInRight animation">
@@ -158,7 +154,7 @@
 					</div>
 				</section>
 				
-				<section class="section ourMethods">
+				<section class="section ourMethods" >
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-5">
